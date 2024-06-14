@@ -1,6 +1,6 @@
 # Projeto Num-Query
 ## Objetivo
-Testar capacidades de descoberta e análise rápida de dados estruturados por meio de prompts de LLM.
+Testar capacidades de descoberta e análise rápida de dados estruturados em banco de por meio de prompts de LLM, reduzindo esforço de construção de queries.
 
 ## Funcionalidades
 - [x] **Prompt livre**
